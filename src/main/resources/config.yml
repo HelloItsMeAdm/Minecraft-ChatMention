@@ -1,0 +1,11 @@
+# General settings
+prefix: "§8[§2Mention§8] §r"
+format: "§b§o@%name%§r§d"
+title: "§a§lByl jsi zmíněn v chatu!"
+subtitle: "§e§lHráč §b§l%name% §e§lTě zmínil v chatu!"
+sound: "ENTITY_PLAYER_LEVELUP"
+# Toggle messages
+toggled-on: "§aZvuky zmínek jsou nyní zapnuty!"
+toggled-off: "§cZvuky zmínek jsou nyní vypnuty!"
+# Error messages
+error-wrong-usage: "§cŠpatné použití! Použij §l/mention toggle"

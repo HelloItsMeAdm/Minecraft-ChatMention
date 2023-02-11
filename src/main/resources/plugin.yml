@@ -1,0 +1,11 @@
+name: ChatMention
+version: '${project.version}'
+main: com.helloitsmeadm.chatmention.ChatMention
+api-version: 1.19
+authors: [ HelloItsMeAdm ]
+description: Simple ChatMention effects working with AsyncPlayerChatEvent.
+website: https://www.vojtech-adam.cz/
+commands:
+    mention:
+        description: Toggles mention sound on/off
+        usage: /mention [on|off]
