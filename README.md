@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/WE7HnYa.png" alt="Logo"/>
+</p>
+
 # ChatMention - mention player in chat, so it can be more visible!
 Simple way to mention player in chat. Working with AsyncPlayerChatEvent.
 
